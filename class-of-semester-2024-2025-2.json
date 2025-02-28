@@ -1,0 +1,65 @@
+{
+    "semester_start_day": "2025-02-24",
+    "lessons": [
+        {
+            "name": "Math",
+            "student": "Grade 1",
+            "week_day": [
+                {
+                    "week": "1-5,6-8,11-17",
+                    "day": "5",
+                    "lesson": "1,2",
+                    "room": "Room 1A"
+                },
+                {
+                    "week": "17",
+                    "day": "3",
+                    "lesson": "1,2",
+                    "room": "Room 1B"
+                }
+            ]
+        },
+        {
+            "name": "Science",
+            "student": "Grade 2",
+            "week_day": [
+                {
+                    "week": "1-8,11-16",
+                    "day": "2",
+                    "lesson": "6-7",
+                    "room": "Room 2A"
+                },
+                {
+                    "week": "17",
+                    "day": "2",
+                    "lesson": "6,7",
+                    "room": "Room 2B"
+                },
+                {
+                    "week": "17",
+                    "day": "4",
+                    "lesson": "3,4",
+                    "room": "Room 2C"
+                }
+            ]
+        },
+        {
+            "name": "Art",
+            "student": "Grade 3",
+            "week_day": [
+                {
+                    "week": "1-8",
+                    "day": "3",
+                    "lesson": "3-5",
+                    "room": "Room 3A"
+                },
+                {
+                    "week": "6-8",
+                    "day": "1",
+                    "lesson": "3-5",
+                    "room": "Room 3B"
+                }
+            ]
+        }         
+    ]
+}
